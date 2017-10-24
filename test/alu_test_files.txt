@@ -1,0 +1,5 @@
+../src/mips.h
+../src/alu.v
+alu_test.v
+assert.v
+

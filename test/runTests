@@ -1,0 +1,9 @@
+iverilog -c adder_test_files.txt && ./a.out
+iverilog -c alu_test_files.txt && ./a.out
+iverilog -c data_memory_test_files.txt && ./a.out
+iverilog -c instr_memory_test_files.txt && ./a.out
+iverilog -c instruction_property_test_files.txt && ./a.out
+iverilog -c mux_test_files.txt && ./a.out
+iverilog -c sign_extend_test_files.txt && ./a.out
+	
+

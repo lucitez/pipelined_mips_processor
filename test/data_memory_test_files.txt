@@ -1,0 +1,5 @@
+../src/mips.h
+../src/data_memory.v
+data_memory_test.v
+assert.v
+

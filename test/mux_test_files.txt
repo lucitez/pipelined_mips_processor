@@ -1,0 +1,6 @@
+../src/mips.h
+../src/mux_1bit.v
+../src/mux_2bit.v
+mux_test.v
+assert.v
+
